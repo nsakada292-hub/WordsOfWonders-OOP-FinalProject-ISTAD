@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ancient Egypt",
+    "description": "Explore the mysteries of the pharaohs and the pyramids."
+  },
+  {
+    "id": 2,
+    "name": "Outer Space",
+    "description": "Journey through the cosmos and uncover the secrets of the universe."
+  },
+  {
+    "id": 3,
+    "name": "The Deep Ocean",
+    "description": "Dive into the abyss and discover the wonders beneath the waves."
+  },
+  {
+    "id": 4,
+    "name": "Dinosaur World",
+    "description": "Travel back in time to walk with the giants of the prehistoric era."
+  },
+  {
+    "id": 5,
+    "name": "Medieval Kingdoms",
+    "description": "Enter the age of castles, knights, and legendary quests."
+  },
+  {
+    "id": 6,
+    "name": "Rainforest Adventure",
+    "description": "Venture into the lush jungle and meet its amazing creatures."
+  }
+]

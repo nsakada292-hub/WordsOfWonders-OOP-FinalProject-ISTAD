@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "worldId": 1,
+    "name": "Pyramids of Giza",
+    "difficulty": "easy",
+    "pointReward": 10
+  },
+  {
+    "id": 2,
+    "worldId": 1,
+    "name": "Secrets of the Nile",
+    "difficulty": "medium",
+    "pointReward": 15
+  },
+  {
+    "id": 3,
+    "worldId": 1,
+    "name": "Valley of the Kings",
+    "difficulty": "hard",
+    "pointReward": 20
+  },
+  {
+    "id": 4,
+    "worldId": 2,
+    "name": "Planets",
+    "difficulty": "easy",
+    "pointReward": 10
+  },
+  {
+    "id": 5,
+    "worldId": 2,
+    "name": "Stellar Nurseries",
+    "difficulty": "medium",
+    "pointReward": 15
+  },
+  {
+    "id": 6,
+    "worldId": 2,
+    "name": "Black Holes",
+    "difficulty": "hard",
+    "pointReward": 20
+  },
+  {
+    "id": 7,
+    "worldId": 3,
+    "name": "Coral Reefs",
+    "difficulty": "easy",
+    "pointReward": 10
+  },
+  {
+    "id": 8,
+    "worldId": 3,
+    "name": "Ocean Giants",
+    "difficulty": "medium",
+    "pointReward": 15
+  },
+  {
+    "id": 9,
+    "worldId": 3,
+    "name": "The Deep Trench",
+    "difficulty": "hard",
+    "pointReward": 20
+  },
+  {
+    "id": 10,
+    "worldId": 4,
+    "name": "Early Discoveries",
+    "difficulty": "easy",
+    "pointReward": 10
+  },
+  {
+    "id": 11,
+    "worldId": 4,
+    "name": "Mesozoic Era",
+    "difficulty": "medium",
+    "pointReward": 15
+  },
+  {
+    "id": 12,
+    "worldId": 4,
+    "name": "Mass Extinction",
+    "difficulty": "hard",
+    "pointReward": 20
+  },
+  {
+    "id": 13,
+    "worldId": 5,
+    "name": "Castles",
+    "difficulty": "easy",
+    "pointReward": 10
+  },
+  {
+    "id": 14,
+    "worldId": 5,
+    "name": "Knights",
+    "difficulty": "medium",
+    "pointReward": 15
+  },
+  {
+    "id": 15,
+    "worldId": 5,
+    "name": "Medieval Life",
+    "difficulty": "hard",
+    "pointReward": 20
+  },
+  {
+    "id": 16,
+    "worldId": 6,
+    "name": "Canopy Explorers",
+    "difficulty": "easy",
+    "pointReward": 10
+  },
+  {
+    "id": 17,
+    "worldId": 6,
+    "name": "Jungle Creatures",
+    "difficulty": "medium",
+    "pointReward": 15
+  },
+  {
+    "id": 18,
+    "worldId": 6,
+    "name": "Survival Skills",
+    "difficulty": "hard",
+    "pointReward": 20
+  }
+]

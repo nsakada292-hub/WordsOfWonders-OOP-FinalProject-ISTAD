@@ -1,0 +1,7 @@
+# Runtime caches written by ApiService (avatars, fetched facts)
+data/cache/avatars/*
+!data/cache/avatars/admin.png
+
+# OS / editor noise
+*.swp
+.DS_Store

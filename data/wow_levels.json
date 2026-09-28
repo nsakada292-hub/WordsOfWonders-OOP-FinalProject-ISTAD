@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "worldId": 1,
+    "name": "Pyramid Puzzle",
+    "difficulty": "easy",
+    "theme": "Ancient Egypt",
+    "words": "[\"PYRAMID\",\"SPHINX\",\"MUMMY\",\"TOMB\",\"NILE\"]",
+    "pointReward": 80
+  },
+  {
+    "id": 2,
+    "worldId": 1,
+    "name": "Pharaoh Challenge",
+    "difficulty": "medium",
+    "theme": "Ancient Egypt",
+    "words": "[\"PYRAMID\",\"SPHINX\",\"MUMMY\",\"TOMB\",\"NILE\",\"PHARAOH\",\"SCARAB\"]",
+    "pointReward": 150
+  },
+  {
+    "id": 3,
+    "worldId": 1,
+    "name": "Ancient Secrets",
+    "difficulty": "hard",
+    "theme": "Ancient Egypt",
+    "words": "[\"PYRAMID\",\"SPHINX\",\"MUMMY\",\"TOMB\",\"NILE\",\"PHARAOH\",\"SCARAB\",\"OBELISK\"]",
+    "pointReward": 250
+  },
+  {
+    "id": 4,
+    "worldId": 2,
+    "name": "Star Gazer",
+    "difficulty": "easy",
+    "theme": "Outer Space",
+    "words": "[\"PLANET\",\"COMET\",\"ORBIT\",\"NOVA\"]",
+    "pointReward": 80
+  },
+  {
+    "id": 5,
+    "worldId": 2,
+    "name": "Cosmic Explorer",
+    "difficulty": "medium",
+    "theme": "Outer Space",
+    "words": "[\"PLANET\",\"COMET\",\"ORBIT\",\"NOVA\",\"GALAXY\",\"NEBULA\"]",
+    "pointReward": 150
+  },
+  {
+    "id": 6,
+    "worldId": 2,
+    "name": "Deep Space",
+    "difficulty": "hard",
+    "theme": "Outer Space",
+    "words": "[\"PLANET\",\"COMET\",\"ORBIT\",\"NOVA\",\"GALAXY\",\"NEBULA\",\"QUASAR\",\"PULSAR\"]",
+    "pointReward": 250
+  },
+  {
+    "id": 7,
+    "worldId": 3,
+    "name": "Coral Explorer",
+    "difficulty": "easy",
+    "theme": "The Deep Ocean",
+    "words": "[\"CORAL\",\"WHALE\",\"REEF\",\"TIDE\"]",
+    "pointReward": 80
+  },
+  {
+    "id": 8,
+    "worldId": 3,
+    "name": "Ocean Depths",
+    "difficulty": "medium",
+    "theme": "The Deep Ocean",
+    "words": "[\"CORAL\",\"WHALE\",\"REEF\",\"TIDE\",\"SHELL\",\"KELP\"]",
+    "pointReward": 150
+  },
+  {
+    "id": 9,
+    "worldId": 3,
+    "name": "Abyssal Quest",
+    "difficulty": "hard",
+    "theme": "The Deep Ocean",
+    "words": "[\"CORAL\",\"WHALE\",\"REEF\",\"TIDE\",\"SHELL\",\"KELP\",\"ABYSS\",\"MARINE\"]",
+    "pointReward": 250
+  },
+  {
+    "id": 10,
+    "worldId": 4,
+    "name": "Rex Runner",
+    "difficulty": "easy",
+    "theme": "Dinosaur World",
+    "words": "[\"REX\",\"CLAW\",\"BONE\",\"JAW\"]",
+    "pointReward": 80
+  },
+  {
+    "id": 11,
+    "worldId": 4,
+    "name": "Fossil Hunt",
+    "difficulty": "medium",
+    "theme": "Dinosaur World",
+    "words": "[\"REX\",\"CLAW\",\"BONE\",\"JAW\",\"FOSSIL\",\"SCALE\"]",
+    "pointReward": 150
+  },
+  {
+    "id": 12,
+    "worldId": 4,
+    "name": "Jurassic Trail",
+    "difficulty": "hard",
+    "theme": "Dinosaur World",
+    "words": "[\"REX\",\"CLAW\",\"BONE\",\"JAW\",\"FOSSIL\",\"SCALE\",\"TALON\",\"ROAR\"]",
+    "pointReward": 250
+  },
+  {
+    "id": 13,
+    "worldId": 5,
+    "name": "Castle Builder",
+    "difficulty": "easy",
+    "theme": "Medieval Kingdoms",
+    "words": "[\"CASTLE\",\"SWORD\",\"SHIELD\",\"CROWN\"]",
+    "pointReward": 80
+  },
+  {
+    "id": 14,
+    "worldId": 5,
+    "name": "Knight Quest",
+    "difficulty": "medium",
+    "theme": "Medieval Kingdoms",
+    "words": "[\"CASTLE\",\"SWORD\",\"SHIELD\",\"CROWN\",\"QUEST\",\"DRAGON\"]",
+    "pointReward": 150
+  },
+  {
+    "id": 15,
+    "worldId": 5,
+    "name": "King's Challenge",
+    "difficulty": "hard",
+    "theme": "Medieval Kingdoms",
+    "words": "[\"CASTLE\",\"SWORD\",\"SHIELD\",\"CROWN\",\"QUEST\",\"DRAGON\",\"KNIGHT\",\"ROYAL\"]",
+    "pointReward": 250
+  },
+  {
+    "id": 16,
+    "worldId": 6,
+    "name": "Canopy Walk",
+    "difficulty": "easy",
+    "theme": "Rainforest Adventure",
+    "words": "[\"VINE\",\"LEAF\",\"FROG\",\"NEST\"]",
+    "pointReward": 80
+  },
+  {
+    "id": 17,
+    "worldId": 6,
+    "name": "Jungle Trek",
+    "difficulty": "medium",
+    "theme": "Rainforest Adventure",
+    "words": "[\"VINE\",\"LEAF\",\"FROG\",\"NEST\",\"CANOPY\",\"ORCHID\"]",
+    "pointReward": 150
+  },
+  {
+    "id": 18,
+    "worldId": 6,
+    "name": "Wild Expedition",
+    "difficulty": "hard",
+    "theme": "Rainforest Adventure",
+    "words": "[\"VINE\",\"LEAF\",\"FROG\",\"NEST\",\"CANOPY\",\"ORCHID\",\"MACAW\",\"TROPIC\"]",
+    "pointReward": 250
+  }
+]
